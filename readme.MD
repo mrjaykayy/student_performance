@@ -5,7 +5,7 @@ An intuitive data analysis tool that visualizes student grades, tracks academic 
 
 **__Does an increase in study hours uniformly correspond to higher marks across all echelons?__**
 
-![Study Marks Scatterplot][images/study-marks.png]
+![Study Marks Scatterplot](images/study-marks.png)
 
 **Study hours seem to positively affect student grades.**
 As observed from the above graph, when study hours go up the marks achieved are also generally high. We can also see a pattern where to achieve a 100 marks, the minimum threshold for study hours seems to be 4 hours.
