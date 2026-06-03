@@ -29,7 +29,7 @@ The point is, less sleep hours but higher study hours could be the cause for thi
 
 As we know, sleep hours have a very little effect on marks. However, for the sole purpose for answering the question. 8-9 hours of sleep seem to be the most optimal yiedling the highest average marks of **75.71** or 76.
 
-Here are the actual figures:
+Here are the actual figures:.
 3-4 hours     71.955000<br>
 4-5 hours     66.629375<br>
 5-6 hours     71.831692<br>
