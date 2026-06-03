@@ -208,10 +208,10 @@ Based on absolute correlation strength with marks:
 `A comprehensive heatmap showcasing the correlation between every numeric variable in the dataset`<br>
 
 ![Data Box Plot](images/boxplot.png)<br>
-`A comprehensive heatmap showcasing the correlation between every numeric variable in the dataset`<br>
+`A comprehensive boxplot showcasing the distribution between gaming usage aligned with marks obtained  in the dataset`<br>
 
 ![Data Histogram](images/hist.png)<br>
-`A comprehensive heatmap showcasing the correlation between every numeric variable in the dataset`<br>
+`A comprehensive histogram showcasing the distribution of marks in the dataset`<br>
 
 
 # Limitations
